@@ -1,0 +1,62 @@
+[
+    {
+        "Nombre": "Cien a\u00f1os de soledad",
+        "Autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "Fecha": 1967,
+        "Categor\u00eda": "Novela"
+    },
+    {
+        "Nombre": "Don Quijote de la Mancha",
+        "Autor": "Miguel de Cervantes",
+        "Fecha": 1605,
+        "Categor\u00eda": "Cl\u00e1sico"
+    },
+    {
+        "Nombre": "El amor en los tiempos del c\u00f3lera",
+        "Autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "Fecha": 1985,
+        "Categor\u00eda": "Romance"
+    },
+    {
+        "Nombre": "La sombra del viento",
+        "Autor": "Carlos Ruiz Zaf\u00f3n",
+        "Fecha": 2001,
+        "Categor\u00eda": "Misterio"
+    },
+    {
+        "Nombre": "Cr\u00f3nica de una muerte anunciada",
+        "Autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "Fecha": 1981,
+        "Categor\u00eda": "Crimen"
+    },
+    {
+        "Nombre": "Los pilares de la tierra",
+        "Autor": "Ken Follett",
+        "Fecha": 1989,
+        "Categor\u00eda": "Hist\u00f3rico"
+    },
+    {
+        "Nombre": "El principito",
+        "Autor": "Antoine de Saint-Exup\u00e9ry",
+        "Fecha": 1943,
+        "Categor\u00eda": "F\u00e1bula"
+    },
+    {
+        "Nombre": "1984",
+        "Autor": "George Orwell",
+        "Fecha": 1949,
+        "Categor\u00eda": "Distop\u00eda"
+    },
+    {
+        "Nombre": "El nombre de la rosa",
+        "Autor": "Umberto Eco",
+        "Fecha": 1980,
+        "Categor\u00eda": "Misterio Hist\u00f3rico"
+    },
+    {
+        "Nombre": "Rayuela",
+        "Autor": "Julio Cort\u00e1zar",
+        "Fecha": 1963,
+        "Categor\u00eda": "Novela"
+    }
+]
